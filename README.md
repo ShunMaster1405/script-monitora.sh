@@ -26,7 +26,7 @@ chmod +x monitora.sh
 2. Ejecútalo con:
 
 ```bash
-./monitora.sh
+./monitora.sh 
 ```
 
 ---
