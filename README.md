@@ -29,7 +29,7 @@ chmod +x monitora.sh
 ./monitora.sh 
 ```
 
---- 
+--- b
 
 ## 💡 Ejemplo de salida
 
