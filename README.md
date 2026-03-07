@@ -30,7 +30,7 @@ chmod +x monitora.sh
 ``` 
 
 --- b
-
+ 
 ## 💡 Ejemplo de salida
 
 ```text
